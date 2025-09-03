@@ -1,2 +1,2 @@
-# vivat.github.io
-Official website for the Working Group "Visualizing Variation in Text" (ViVaT)
+# Working Group VIDIT
+Official website for the Working Group "Visualizing and Investigating Differences In Texts" (VIDIT).
