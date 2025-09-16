@@ -13,12 +13,16 @@ Check out the About-page for more background and information about our work and 
 
 # Latest news and updates
 
-- Coming up: we present the Working Group at the 2025 TEI conference and members meeting in Kraków, Poland.
+- Coming up: we present the Working Group at the 2025 [TEI Conference and Members Meeting](https://tei2025.confer.uj.edu.pl/en_GB/programme) in Kraków, Poland.
 
 
 # Get in touch!
 Find us on our: 
 
-- Mailing list; 
-- Discord channel; 
+- Discord channels:
+	- [General](https://discord.gg/7mdVm6MW) channel
+	- Subgroup "[Best Practices for Tools](https://discord.gg/gXYjkCSe)" channel
+	- Subgroup "[Shared Vocabulary](https://discord.gg/nUPSD3tB)" channel
+- [Mailing list](https://framagroupes.org/sympa/info/vidit);
+- [Email](wg-vidit@pm.me);
 - [GitHub](https://github.com/orgs/wg-vidit).

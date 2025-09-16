@@ -18,10 +18,10 @@ The objectives of the Working Group VIDIT are two-fold:
 These objectives are realised in two VIDIT-subgroups: 
 
 1. Shared Vocabulary of Textual Variation;
-2. Core application.
+2. Best Practices for Analysing and Visualizing Textulal Variation.
 
 
-# How you can join
+# Why you should join
 We are building a global community of scholars, developers, and designers that share an interest for studying and visualizing variation in historical and literary texts –– and we need you to join us! 
 
 Whether you're a seasoned textual scholar, a curious graduate student, a software developer intrigued by digital humanities, or a designer passionate about making complex scholarly tools accessible, there's a place for you in VIDIT. Our members come from diverse backgrounds (i.a., literary studies, book history, software development, UI/UX design) and every perspective strengthens our collective work. 
@@ -35,12 +35,19 @@ Since its beginnings, textual scholarship has happened at the intersection of di
 
 Your level of expertise doesn't matter — your enthusiasm and fresh perspective do.
 
-### Contribute
-There are various ways for you to contribute:
+# How you can contribute
 
 - **Join a subgroup**. Being part of either (or both) VIDIT-subgroups means that you'll collaborate with scholars across disciplines and international boundaries on the objectives. Each subgroup has a co-ordinator who organizes regular meetings, online and Face2Face. You'll write papers, design surveys, study tools and literature – but most importantly: you'll share your invaluable perspective.
 - **Become a general member**. We understand that you're busy and that it's sometimes just not possible to commit (much) time to a cause that interests you. As a regular VIDIT-member, you'll be kept in the loop about our work and you can decide to join or contribute whenever and whatever you feel like. You'll receive regular mailing list updates, discuss stuff on the Discord channel, and attend WG-meetings if they take place near you.
 
+
+# How to get in touch
+- Send us an [email](wg-vidit@pm.me)!
+- Subscribe to our [mailing list](https://framagroupes.org/sympa/info/vidit)!
+- Find us on Discord:
+	- [General](https://discord.gg/7mdVm6MW) channel
+	- Subgroup "[Best Practices for Tools](https://discord.gg/gXYjkCSe)" channel
+	- Subgroup "[Shared Vocabulary](https://discord.gg/nUPSD3tB)" channel
 
 [//]: # This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
