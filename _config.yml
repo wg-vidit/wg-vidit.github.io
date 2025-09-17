@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Working Group "Visualizing and Investigating Differences in Texts" (WG-VIDIT)
+title: Working Group "Visualizing and Investigating Differences in Texts" (VIDIT)
 email: elli.bleeker@huygens.knaw.nl
 description: >- # this means to ignore newlines until "baseurl:"
   Official website for the international Working Group VIDIT "Visualizing and Investigating Differences in Texts". 
