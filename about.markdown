@@ -42,7 +42,7 @@ Your level of expertise doesn't matter — your enthusiasm and fresh perspective
 
 
 # How to get in touch
-- Send us an [email](wg-vidit@pm.me)!
+- Send us an [email](mailto:wg-vidit@pm.me)!
 - Subscribe to our [mailing list](https://framagroupes.org/sympa/info/vidit)!
 - Find us on Discord:
 	- [General](https://discord.gg/7mdVm6MW) channel

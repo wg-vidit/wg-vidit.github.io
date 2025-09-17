@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Working Group "VIDIT"
+title: Home
 ---
 
 # Who we are
@@ -24,5 +24,5 @@ Find us on our:
 	- Subgroup "[Best Practices for Tools](https://discord.gg/gXYjkCSe)" channel
 	- Subgroup "[Shared Vocabulary](https://discord.gg/nUPSD3tB)" channel
 - [Mailing list](https://framagroupes.org/sympa/info/vidit);
-- [Email](wg-vidit@pm.me);
+- [Email](mailto:wg-vidit@pm.me);
 - [GitHub](https://github.com/orgs/wg-vidit).
