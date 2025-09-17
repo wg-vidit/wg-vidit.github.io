@@ -19,12 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Working Group "Visualizing and Investigating Differences in Texts" (VIDIT)
-email: elli.bleeker@huygens.knaw.nl
+email: wg-vidit@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
   Official website for the international Working Group VIDIT "Visualizing and Investigating Differences in Texts". 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wg-vidit.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: https://github.com/wg-vidit/wg-vidit.github.io
+github_username: https://github.com/wg-vidit/
 
 # Build settings
 theme: minima
