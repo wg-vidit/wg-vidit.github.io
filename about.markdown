@@ -45,9 +45,9 @@ Your level of expertise doesn't matter — your enthusiasm and fresh perspective
 - Send us an [email](mailto:wg-vidit@pm.me)!
 - Subscribe to our [mailing list](https://framagroupes.org/sympa/info/vidit)!
 - Find us on Discord:
-	- [General](https://discord.gg/7mdVm6MW) channel
-	- Subgroup "[Best Practices for Tools](https://discord.gg/gXYjkCSe)" channel
-	- Subgroup "[Shared Vocabulary](https://discord.gg/nUPSD3tB)" channel
+	- [General](https://discord.gg/v3qzm52tWD) channel
+	- Subgroup "[Best Practices for Tools](https://discord.gg/UzRE9ZJ583)" channel
+	- Subgroup "[Shared Vocabulary](https://discord.gg/ugXtRvrqAk)" channel
 
 [//]: # This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
