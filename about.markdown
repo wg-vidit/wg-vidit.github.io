@@ -4,6 +4,9 @@ title: About us
 permalink: /about/
 ---
 
+The idea of creating the Working Group VIDIT emerged during the [Lorentz Workshop](https://www.lorentzcenter.nl/seeing-the-difference-visualizing-textual-variation.html) 'Seeing the Difference: Visualizing Textual Variance' (14-17 April 2025).
+
+
 # What we do
 The objectives of the Working Group VIDIT are two-fold:
 
