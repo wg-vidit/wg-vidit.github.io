@@ -27,4 +27,5 @@ Find us on our:
 	- Subgroup "[Shared Vocabulary](https://discord.gg/ugXtRvrqAk)" channel
 - [Mailing list](https://framagroupes.org/sympa/info/vidit);
 - [Email](mailto:wg-vidit@pm.me);
-- [GitHub](https://github.com/orgs/wg-vidit).
+- [GitHub](https://github.com/orgs/wg-vidit);
+- [Zotero](https://www.zotero.org/groups/5918162/visualisationtextvariation).
