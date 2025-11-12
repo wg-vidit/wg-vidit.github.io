@@ -13,8 +13,9 @@ Check out the About-page for more background and information about our work and 
 
 # Latest news and updates
 
--  First subgroup meetings are happening! Join us on **October 22** for the "Best Practices for Tools"-subgroup (2pm GMT / 3pm CEST / 8am CST), on [Zoom](https://us06web.zoom.us/j/83234533130?pwd=0kEYdScObC9x3E2Jm9VHrlTlbMEAIG.1) and on **October 29** for the "Shared Vocabulary"-subgroup (2pm GMT / 3pm CEST / 8am CST) on [Zoom](https://unibe-ch.zoom.us/j/65312703924?pwd=fxBpUhqFlJa2U4uOWfazaNGxQ8kVym.1). On the agenda is a brief introduction into the Working Group and then a dive into the goals of the subgroup-in-question. We'll discuss where we want to go, and ways for you to participate. We look forward to seeing you there!
--  The organizers of the 2026 ESTS conference have kindly offered us a chance to get together during the conference and do some collaborative work. If the ESTS is your jam, do check out their [Call for Papers](ests2026.arfi.kul.pl) and submit a paper! If you cannot make it to Poland, no worries: we're planning for our meeting to be hybrid.
+- The first subgroup meetings happened! On October 22 the "Best Practices for Tools"-subgroup met; a week later the "Shared Vocabulary"-subgroup meeting took place. On the agendas: a brief introduction into the Working Group and then a dive into the goals of the subgroup-in-question. We're happy to say that both meetings were well attended. If you like to know more, join the dedicated Discord channels for the minutes and a working plan.
+- Next meetings are planned for **Friday, January 16 at 3pm CET** (Shared Vocabulary) and **Friday, January 23 2026 at 3pm CET** (Best Practices). An agenda as well as Zoom links to the video call will be shared in advance. We hope to see many of you there!
+-  The organizers of the 2026 ESTS conference have kindly offered us a chance to get together during the conference and do some collaborative work. If the ESTS is your jam, do check out their [Call for Papers](ests2026.arfi.kul.pl) and submit a paper! If you cannot make it to Poland, no worries: we're planning for our meeting to be hybrid, so keep an eye out for the conference program.
 - On September 17, we presented the Working Group at the 2025 [TEI Conference and Members Meeting](https://tei2025.confer.uj.edu.pl/en_GB/programme) in Kraków, Poland.
 
 
