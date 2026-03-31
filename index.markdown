@@ -13,7 +13,7 @@ Check out the About-page for more background and information about our work and 
 
 # Latest news and updates
 
-- Next subgroup meetings are planned for **Monday, March 16 at 3pm CET** (Shared Vocabulary) and **Monday, March 23 2026 at 3pm CET** (Best Practices). An agenda as well as Zoom links to the video call will be shared in advance. We hope to see many of you there! If you like to know more about either subgroup and what we're up to, join the dedicated Discord channels (see below) for the minutes of previous meetings.
+- Next subgroup meetings are planned for **Monday, May 4 at 3pm CET** (Shared Vocabulary) and **Monday, May 11 at 3pm CET** (Best Practices). An agenda as well as Zoom links to the video call will be shared in advance. We hope to see many of you there! If you like to know more about either subgroup and what we're up to, join the dedicated Discord channels (see below) and ask us anything (e.g., the minutes of previous meetings).
 -  The organizers of the 2026 ESTS conference have kindly offered us a chance to get together during the conference and do some collaborative work. If you cannot make it to Poland, no worries: we're planning for our meeting to be hybrid, so keep an eye out for the conference program. More information follows soon, when the conference program is finalised. 
 
 
