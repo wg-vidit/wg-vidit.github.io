@@ -13,13 +13,17 @@ Check out the About-page for more background and information about our work and 
 
 # Latest news and updates
 
-- Next subgroup meetings are planned for **Tuesday, June 23rd at 3pm CET** (Shared Vocabulary). An agenda as well as Zoom links to the video call will be shared in advance on the Discord channels. We hope to see many of you there! If you like to know more about either subgroup and what we're up to, join the dedicated Discord channels (see below) and ask us anything (e.g., the minutes of previous meetings).
+- Next subgroup meetings are planned for 
+	- **Tuesday, June 23rd at 3pm CET** (Shared Vocabulary). 
+	- **Tuesday, June 30 at 3pm CET** (Best Practices).
+- An agenda as well as Zoom links to the video call will be shared in advance on the Discord channels. 
+- If you like to know more about either subgroup and what we're up to, join the dedicated Discord channels (see below) and ask us anything (e.g., the minutes of previous meetings).
 -  The organizers of the [2026 ESTS conference](https://ests2026.arfi.kul.pl/program/) have kindly offered us a chance to get together during the conference and do some collaborative work. We will meet on **Friday, May 29th, 3:30-5:30 pm** in room C-102 of the John Paul II Collegium of the John Paul II Catholic University of Lublin. The meeting is open to everyone who's interested in VIDIT. **Please make sure to register [here](https://forms.office.com/e/UHK4SnqLZG)**. We're looking forward to seeing many of you there!
 
 # Get in touch!
-Find us on our: 
+Find us on: 
 
-- Discord channels:
+- Discord:
 	- [General](https://discord.gg/v3qzm52tWD) channel
 	- Subgroup "[Best Practices for Tools](https://discord.gg/UzRE9ZJ583)" channel
 	- Subgroup "[Shared Vocabulary](https://discord.gg/ugXtRvrqAk)" channel
