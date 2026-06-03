@@ -9,7 +9,9 @@ title: Home
 # Who we are
 The Working Group **VIDIT** brings together an international group of scholars and developers who study textual variation in literary and historical documents. In particular, the working group addresses the challenge of using visualizations to represent textual differences and make the output of collation software more informative for a wider audience.
 
-Check out the About-page for more background and information about our work and how you can join! 
+For more information about the people *behind* VIDIT, see [VIDIT team](/people/).
+
+Check out the [About-page](/about/) for more background and information about our work and how you can join! 
 
 # Latest news and updates
 
@@ -18,8 +20,9 @@ Check out the About-page for more background and information about our work and 
 	- **Tuesday, June 30 at 3pm CET** (Best Practices).
 - An agenda as well as Zoom links to the video call will be shared in advance on the Discord channels. 
 - If you like to know more about either subgroup and what we're up to, join the dedicated Discord channels (see below) and ask us anything (e.g., the minutes of previous meetings).
--  The organizers of the [2026 ESTS conference](https://ests2026.arfi.kul.pl/program/) have kindly offered us a chance to get together during the conference and do some collaborative work. We will meet on **Friday, May 29th, 3:30-5:30 pm** in room C-102 of the John Paul II Collegium of the John Paul II Catholic University of Lublin. The meeting is open to everyone who's interested in VIDIT. **Please make sure to register [here](https://forms.office.com/e/UHK4SnqLZG)**. We're looking forward to seeing many of you there!
+-  The organizers of the [2026 ESTS conference](https://ests2026.arfi.kul.pl/program/) kindly offered us a chance to get together during the conference and do some collaborative work. Many people showed up to this Open Session and we had a productive time, working both on the modeling of text variation concepts ("document", "modification", "variation", etc) and testing and reviewing tools for text alignment. Part of our work was fueled by large quantities of American candy, kindly provided by Brett. Pictures will be shared soon (once we've secured consent from all participants). 
 
+  
 # Get in touch!
 Find us on: 
 
