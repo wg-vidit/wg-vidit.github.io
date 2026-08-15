@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Official website for the international Working Group VIDIT "Visualizing and Investigating Differences in Texts". 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wg-vidit.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: https://github.com/wg-vidit/
+github_username: wg-vidit
 # Force rebuild second time - 2025-05-21
 
 # Build settings
