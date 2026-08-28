@@ -533,3 +533,98 @@ body {
     grid-template-columns: 1fr;
   }
 }
+
+
+/* Distinct institutional palette and typographic identity */
+:root {
+  --vidit-ink-blue: #24364b;
+  --vidit-ink-blue-dark: #18293a;
+  --vidit-link: #365f7d;
+  --vidit-paper: #f6f4ef;
+}
+
+body { background: var(--vidit-paper); }
+
+.site-header {
+  background: linear-gradient(110deg, var(--vidit-ink-blue-dark), var(--vidit-ink-blue));
+  box-shadow: 0 5px 20px rgba(24, 41, 58, 0.2);
+}
+
+.site-brand__wordmark {
+  display: flex;
+  align-items: baseline;
+  color: #fff;
+  font-size: 1.78rem;
+  font-weight: 850;
+  letter-spacing: 0.035em;
+  line-height: 1;
+}
+
+.site-brand__variant {
+  display: inline-block;
+  width: 0.42em;
+  margin: 0 0.015em;
+  overflow: hidden;
+  color: #fff;
+  font-weight: 900;
+  text-align: center;
+}
+
+.site-brand__variant--one { transform: translateY(-2px); }
+
+.site-brand__variant--two {
+  color: #f0837f;
+  transform: translateY(2px);
+}
+
+.site-nav .page-link:hover,
+.site-nav .page-link:focus,
+.site-nav .page-link.active {
+  background: rgba(255, 255, 255, 0.16);
+}
+
+.post-content a { color: var(--vidit-link); }
+.post-content a:hover { color: var(--vidit-ink-blue-dark); }
+
+.home-hero__eyebrow,
+.section-eyebrow,
+.work-card__number,
+.work-card__link {
+  color: var(--vidit-link);
+}
+
+.button--primary,
+.button--primary:visited {
+  background: var(--vidit-ink-blue);
+  box-shadow: 0 5px 12px rgba(36, 54, 75, 0.2);
+}
+
+.button--primary:hover { background: var(--vidit-ink-blue-dark); }
+.work-card:hover { border-color: #9fb2c0; }
+
+.catalogue-banner {
+  border-color: #efc9cb;
+  background: linear-gradient(135deg, #fff7f7 0%, #fff 58%, #f8ecec 100%);
+}
+
+.catalogue-banner__eyebrow { color: var(--vidit-red); }
+
+.catalogue-banner__button,
+.catalogue-banner__button:visited {
+  background: var(--vidit-red);
+}
+
+.catalogue-banner__button:hover { background: var(--vidit-red-dark); }
+
+@media screen and (max-width: 900px) {
+  .site-brand__wordmark { font-size: 1.5rem; }
+
+  .site-nav .page-link:hover,
+  .site-nav .page-link:focus,
+  .site-nav .page-link.active {
+    background: #e8eef2;
+    color: var(--vidit-ink-blue);
+  }
+
+  .site-nav .menu-icon > svg { fill: var(--vidit-ink-blue); }
+}
