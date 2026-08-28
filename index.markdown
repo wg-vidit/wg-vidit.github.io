@@ -7,13 +7,22 @@ title: Home
 hide_title: true
 ---
 
-<section class="home-hero">
-  <p class="home-hero__eyebrow">Working Group VIDIT</p>
-  <h1>An international working group on textual variation</h1>
-  <p class="home-hero__intro">VIDIT brings together scholars, developers, and designers who study textual variation in literary and historical documents. We work on shared concepts for describing variation and best practices for tools that analyse and visualize differences in texts.</p>
-  <div class="home-hero__actions">
-    <a class="button button--primary" href="/about/">Discover VIDIT</a>
+<section class="home-hero home-hero--split">
+  <div class="home-hero__main">
+    <p class="home-hero__eyebrow">Working Group VIDIT</p>
+    <h1>An international working group on textual variation</h1>
+    <p class="home-hero__intro">VIDIT brings together scholars, developers, and designers who study textual variation in literary and historical documents. We work on shared concepts for describing variation and best practices for tools that analyse and visualize differences in texts.</p>
+    <div class="home-hero__actions">
+      <a class="button button--primary" href="/about/">Discover VIDIT</a>
+    </div>
   </div>
+
+  <aside class="hero-catalogue" aria-labelledby="hero-catalogue-title">
+    <p class="catalogue-banner__eyebrow">Featured VIDIT resource</p>
+    <h2 id="hero-catalogue-title">Tools Catalogue</h2>
+    <p>Explore a selected collection of software for analysing, comparing, and visualizing textual variation.</p>
+    <a class="catalogue-banner__button" href="/VIDIT-Tools-Catalogue/">Browse the catalogue →</a>
+  </aside>
 </section>
 
 <section class="work-areas" aria-labelledby="work-areas-title">
@@ -34,15 +43,6 @@ hide_title: true
     </a>
   </div>
 </section>
-
-<div class="catalogue-banner">
-  <div>
-    <p class="catalogue-banner__eyebrow">Explore the field</p>
-    <h2>VIDIT Tools Catalogue</h2>
-    <p>Discover a selected collection of software for analysing, comparing, and visualizing textual variation—including current tools, historical projects, and research prototypes.</p>
-  </div>
-  <a class="catalogue-banner__button" href="/VIDIT-Tools-Catalogue/">Browse the catalogue →</a>
-</div>
 
 # Latest news and updates
 
