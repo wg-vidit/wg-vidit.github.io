@@ -701,3 +701,12 @@ body { background: var(--vidit-paper); }
     padding: 22px;
   }
 }
+
+
+/* Preserve accessible contrast on dark call-to-action buttons */
+.post-content .button--primary:hover,
+.post-content .button--primary:focus,
+.post-content .catalogue-banner__button:hover,
+.post-content .catalogue-banner__button:focus {
+  color: #fff;
+}
