@@ -4,7 +4,8 @@ title: The VIDIT people
 permalink: /people/
 ---
 
-# People
+
+
 
 ## Core team
 - **Brett Barney**, *University of Nebraska-Lincoln* (US). Brett is Research Associate Professor at the Center for Digital Research in the Humanities and Senior Associate Editor of the Walt Whitman Archive. He served two terms (2010-2013) on the TEI Consortium’s Technical Council and is currently engaged in an NEH-funded project to test and enhance the TEI's provisions for documentary and genetic editing. Together with Elena Spadini and Bernhard Oberrheiter, Brett coordinates the *Shared Vocabulary*-subgroup. [Institutional page](https://cdrh.unl.edu/person/brett-barney/).
@@ -17,5 +18,8 @@ permalink: /people/
 - **Elena Spadini**, University Bern (CH). Elena is an Assistant Professor in Digital Humanities at the University of Bern. She studied Romance Philology and Digital Humanities at the University of Rome Sapienza, École nationale des chartes and Universidade Nova de Lisboa. In 2016 she completed her Ph.D. on the manuscript transmission of the XIII century Lancelot en prose. Currently, Elena is the PI of the project [Bit Philology](https://unibe.digitalhumanities.ch/content/projects/bitphilology/), which applies textual scholarship on born-digital sources from literary archives, and together with Brett the coordinator of the subgroup *Shared Vocabulary*. [Personal homepage](https://elespdn.github.io/io/).
 
 
+
+
 ## Members
 VIDIT has a large community of scholars and developers across countries and disciplines, who frequently come together in bi-monthly online meetings and have ongoing discussions on Discord. Everyone is welcome to join. For more information how to become part of VIDIT, see [About](/about/).
+
