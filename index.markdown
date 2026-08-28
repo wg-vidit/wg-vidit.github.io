@@ -13,7 +13,6 @@ hide_title: true
   <p class="home-hero__intro">VIDIT brings together scholars, developers, and designers who study textual variation in literary and historical documents. We work on shared concepts for describing variation and best practices for tools that analyse and visualize differences in texts.</p>
   <div class="home-hero__actions">
     <a class="button button--primary" href="/about/">Discover VIDIT</a>
-    <a class="button button--secondary" href="/VIDIT-Tools-Catalogue/">Browse the tools catalogue</a>
   </div>
 </section>
 
@@ -35,6 +34,15 @@ hide_title: true
     </a>
   </div>
 </section>
+
+<div class="catalogue-banner">
+  <div>
+    <p class="catalogue-banner__eyebrow">Explore the field</p>
+    <h2>VIDIT Tools Catalogue</h2>
+    <p>Discover a selected collection of software for analysing, comparing, and visualizing textual variation—including current tools, historical projects, and research prototypes.</p>
+  </div>
+  <a class="catalogue-banner__button" href="/VIDIT-Tools-Catalogue/">Browse the catalogue →</a>
+</div>
 
 # Latest news and updates
 
