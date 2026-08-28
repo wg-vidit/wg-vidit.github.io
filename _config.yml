@@ -51,3 +51,12 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+# Navigation order
+header_pages:
+  - index.markdown
+  - best-practices.md
+  - shared-vocabulary.md
+  - about.markdown
+  - vidit-people.md
