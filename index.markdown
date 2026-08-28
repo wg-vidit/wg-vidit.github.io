@@ -4,23 +4,37 @@
 
 layout: page
 title: Home
+hide_title: true
 ---
 
-# Who we are
-The Working Group **VIDIT** brings together an international group of scholars and developers who study textual variation in literary and historical documents. In particular, the working group addresses the challenge of using visualizations to represent textual differences and make the output of collation software more informative for a wider audience.
-
-For more information about the people *behind* VIDIT, see [VIDIT team](/people/).
-
-Check out the [About-page](/about/) for more background and information about our work and how you can join!
-
-<div class="catalogue-banner">
-  <div>
-    <p class="catalogue-banner__eyebrow">Explore the field</p>
-    <h2>VIDIT Tools Catalogue</h2>
-    <p>Discover a selected collection of software for analysing, comparing, and visualizing textual variation—including current tools, historical projects, and research prototypes.</p>
+<section class="home-hero">
+  <p class="home-hero__eyebrow">Working Group VIDIT</p>
+  <h1>An international working group on textual variation</h1>
+  <p class="home-hero__intro">VIDIT brings together scholars, developers, and designers who study textual variation in literary and historical documents. We work on shared concepts for describing variation and best practices for tools that analyse and visualize differences in texts.</p>
+  <div class="home-hero__actions">
+    <a class="button button--primary" href="/about/">Discover VIDIT</a>
+    <a class="button button--secondary" href="/VIDIT-Tools-Catalogue/">Browse the tools catalogue</a>
   </div>
-  <a class="catalogue-banner__button" href="/VIDIT-Tools-Catalogue/">Browse the catalogue →</a>
-</div>
+</section>
+
+<section class="work-areas" aria-labelledby="work-areas-title">
+  <p class="section-eyebrow">Our areas of work</p>
+  <h2 id="work-areas-title">Two connected strands</h2>
+  <div class="work-areas__grid">
+    <a class="work-card" href="/shared-vocabulary/">
+      <span class="work-card__number">01</span>
+      <h3>Shared Vocabulary</h3>
+      <p>Building precise, interoperable concepts for describing textual variation across disciplines and traditions.</p>
+      <span class="work-card__link">Explore the vocabulary work →</span>
+    </a>
+    <a class="work-card" href="/best-practices/">
+      <span class="work-card__number">02</span>
+      <h3>Best Practices</h3>
+      <p>Developing practical recommendations for tools that analyse, compare, and visualize differences in texts.</p>
+      <span class="work-card__link">Explore best practices →</span>
+    </a>
+  </div>
+</section>
 
 # Latest news and updates
 
