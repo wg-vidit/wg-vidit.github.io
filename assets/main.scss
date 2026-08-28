@@ -628,3 +628,76 @@ body { background: var(--vidit-paper); }
 
   .site-nav .menu-icon > svg { fill: var(--vidit-ink-blue); }
 }
+
+
+/* Split homepage hero with featured catalogue */
+.home-hero--split {
+  display: grid;
+  grid-template-columns: minmax(0, 1.35fr) minmax(300px, 0.65fr);
+  gap: 42px;
+  align-items: stretch;
+}
+
+.home-hero--split .home-hero__main {
+  min-width: 0;
+}
+
+.home-hero--split .home-hero__main h1 {
+  font-size: clamp(2.7rem, 4.4vw, 4rem);
+}
+
+.hero-catalogue {
+  display: flex;
+  flex-direction: column;
+  align-self: stretch;
+  justify-content: center;
+  padding: 30px;
+  border: 1px solid #efc9cb;
+  border-radius: 14px;
+  background:
+    linear-gradient(145deg, rgba(255, 255, 255, 0.98), rgba(255, 241, 242, 0.96)),
+    linear-gradient(135deg, #fff7f7, #f8ecec);
+  box-shadow: 0 10px 26px rgba(110, 24, 29, 0.1);
+}
+
+.hero-catalogue h2 {
+  margin: 2px 0 12px;
+  font-family: "Source Serif 4", Iowan Old Style, Palatino Linotype, Book Antiqua, Palatino, Georgia, serif;
+  font-size: 2rem;
+  font-weight: 650;
+  line-height: 1.12;
+  letter-spacing: -0.025em;
+}
+
+.hero-catalogue > p:not(.catalogue-banner__eyebrow) {
+  margin: 0 0 24px;
+  color: var(--vidit-muted);
+  line-height: 1.65;
+}
+
+.hero-catalogue .catalogue-banner__button {
+  width: 100%;
+  min-width: 0;
+  margin-top: auto;
+}
+
+@media screen and (max-width: 900px) {
+  .home-hero--split {
+    grid-template-columns: 1fr;
+    gap: 30px;
+  }
+
+  .hero-catalogue {
+    padding: 26px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .home-hero--split .home-hero__main h1 {
+    font-size: 2.45rem;
+  }
+
+  .hero-catalogue {
+    padding: 22px;
+  }
+}
