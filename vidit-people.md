@@ -21,7 +21,7 @@ VIDIT cannot exist without the efforts of a core group of international scholars
 
 - **Gerrit Brüning**, *Klassik Stiftung Weimar, Goethe- und Schiller-Archiv* (DE),
 - **Serena Carlamaria Crespi**, *CESR, Université de Tours* (FR),
-- **Elisa Cugliana**, *Department of Digital Humanities and Cologne Center for eHumanities, University of Cologne |  North Rhine-Westphalian Academy of Sciences, Humanities and the Arts* (DE),
+- **Elisa Cugliana**, *Department of Digital Humanities and Cologne Center for eHumanities, University of Cologne, North Rhine-Westphalian Academy of Sciences, Humanities and the Arts* (DE),
 - **Wout Dillen**, *Swedish School of Library and Information Science* (SE),
 - **Jessie Gonzalez**, *Netherlands eScience Center* (NL),
 - **Philipp Hegel**, *Akademie der Wissenschaften und der Literatur Mainz* (DE),
